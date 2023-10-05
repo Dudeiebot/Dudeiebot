@@ -1,10 +1,10 @@
 ### Hi there 👋, Dudeiebot here
 
-### ErrorConfirmedBot := "Oh Dude is nat confirmed a BOT"
+ErrorConfirmedBot := "Oh Dude is nat confirmed a BOT"
 
-#### If err != nil {
-#### errors.New(ErrorConfirmedBot)
-#### }
+If err != nil {
+errors.New(ErrorConfirmedBot)
+}
 
 
 <!--
