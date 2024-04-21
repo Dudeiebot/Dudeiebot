@@ -2,10 +2,6 @@
 
 ErrorConfirmedBot := "Oh Dude is nat confirmed a BOT"
 
-If err != nil {
-errors.New(ErrorConfirmedBot)
-}
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
