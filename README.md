@@ -1,6 +1,6 @@
 ### Hi there 👋, Dudeiebot here
 
-ErrorConfirmedBot := "Oh Dude is nat confirmed a BOT"
+ErrorConfirmedBot := "Oh Dude is not confirmed a BOT"
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
